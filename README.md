@@ -1,4 +1,4 @@
 # django-wordcount
 simple django
 
-pip install djangp=2.0.2
+pip install django=2.0.2
